@@ -6,3 +6,4 @@ seaborn
 plotly
 scikit-learn
 tensorflow==2.15.0
+python-3.10.13
