@@ -7,3 +7,4 @@ plotly
 scikit-learn
 tensorflow==2.15.0
 xgboost
+fpdf
