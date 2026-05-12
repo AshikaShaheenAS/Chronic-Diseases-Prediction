@@ -5,6 +5,4 @@ matplotlib
 seaborn
 plotly
 scikit-learn
-tensorflow==2.19.0
-joblib
-Pillow
+tensorflow==2.15.0
