@@ -9,3 +9,4 @@ tensorflow==2.15.0
 xgboost
 fpdf
 pyrebase4
+PyPDF2
